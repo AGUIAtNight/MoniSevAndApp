@@ -1,1 +1,2 @@
 # MoniSevAndApp
+使用分开的自建的手机app界面和服务端去提供
